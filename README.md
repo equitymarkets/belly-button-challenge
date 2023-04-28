@@ -9,3 +9,5 @@ This study aims to answer that question with a breakdown of different operationa
 
 <img width="100%" alt="Scrub Frequency" src="https://user-images.githubusercontent.com/49753517/235022220-b18a9538-d36d-488a-8493-ea45490dc6e3.png">
 
+
+<img width="100%" alt="https://user-images.githubusercontent.com/49753517/235022785-cbc0e883-84d2-4f93-b8c9-bf86c31590fb.png">
