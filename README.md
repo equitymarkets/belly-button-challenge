@@ -7,3 +7,5 @@ This study aims to answer that question with a breakdown of different operationa
 
 <img width="100%" alt="OTU_example" src="https://user-images.githubusercontent.com/49753517/235013072-666b917e-407c-45da-9e3b-65033db91aee.png">
 
+<img width="100%" alt="Scrub Frequency" src="https://user-images.githubusercontent.com/49753517/235022220-b18a9538-d36d-488a-8493-ea45490dc6e3.png">
+
